@@ -1,5 +1,5 @@
 # Job listing
 - Developmented : Abolfazl mollashahi
-- Expand it : Nuxt.js & Tailwindcss
+- Development Tool : Nuxt.js & Tailwindcss
 
 
